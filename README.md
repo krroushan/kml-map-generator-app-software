@@ -14,13 +14,13 @@ A Flutter application that generates KML files for Google Earth/Maps by distribu
 ## Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krroushan/kml-map-generator-software/refs/heads/main/assets/images/Screenshot%202025-01-05%20173311.png" alt="Main Screen" width="600"/>
+  <img src="https://raw.githubusercontent.com/krroushan/kml-map-generator-app-software/refs/heads/main/assets/images/Screenshot%202025-01-05%20173311.png" alt="Main Screen" width="600"/>
   <p><em>Main application interface showing the KML generator settings</em></p>
   
-  <img src="https://raw.githubusercontent.com/krroushan/kml-map-generator-software/refs/heads/main/assets/images/Screenshot-2025-01-05%20173728.png" alt="Location Picker" width="600"/>
+  <img src="https://raw.githubusercontent.com/krroushan/kml-map-generator-app-software/refs/heads/main/assets/images/Screenshot-2025-01-05%20173728.png" alt="Location Picker" width="600"/>
   <p><em>Location picker interface with search functionality</em></p>
   
-  <img src="https://raw.githubusercontent.com/krroushan/kml-map-generator-software/refs/heads/main/assets/images/Screenshot-2025-01-05%20173838.png" alt="Generated KML" width="600"/>
+  <img src="https://raw.githubusercontent.com/krroushan/kml-map-generator-app-software/refs/heads/main/assets/images/Screenshot-2025-01-05%20173838.png" alt="Generated KML" width="600"/>
   <p><em>Example of generated KML output</em></p>
 </div>
 
